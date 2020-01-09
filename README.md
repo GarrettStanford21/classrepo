@@ -1,10 +1,10 @@
 # classrepo
-for class coding 
-
 The blazers will win the NBA championship in 2032
 
-Maybe 2042
+Maybe 
 
-Bucks will never win again. Thanks, Kareem 
+Bucks will always win 
 
 chris berg ruuuuulllllzzzzzz
+
+attempt was made to merge conflict
