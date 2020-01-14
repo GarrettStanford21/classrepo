@@ -9,3 +9,6 @@ chris berg ruuuuulllllzzzzzz
 
 attempt was made to merge conflict
 
+making some changes bzz bzz bzz 
+
+making some changes to the branch bzz bzz bzz
